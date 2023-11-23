@@ -5,3 +5,8 @@ print("samber")
 print("alu fry")
 print("beans fry")
 
+food_items rates
+print("dal")=20
+print("samber")=30
+print("alu fry")=40
+print("beans fry")=30
